@@ -1,0 +1,152 @@
+[project]
+site_name = "Valerio Paulicelli"
+site_description = "Courses, exercises and projects from my MSc in Finance & Technology at Roma Tre University."
+site_author = "Valerio Paulicelli"
+copyright = "Copyright &copy; 2026 Valerio Paulicelli"
+
+repo_url = "https://github.com/ValerioPaul/msc-finance-technology"
+repo_name = "ValerioPaul/msc-finance-technology"
+
+# Fill in once the Vercel deployment exists:
+# site_url = "https://<your-project>.vercel.app/"
+
+# The sidebar, in reading order. A new exercise gets one line inside its
+# course; a new course gets its own block.
+nav = [
+  { "Home" = "index.md" },
+  { "Computational Finance" = [
+    "computational-finance/index.md",
+    { "Part I · Foundations and fixed income" = [
+      "computational-finance/part-1/index.md",
+      "computational-finance/part-1/portfolio-scenarios/index.md",
+      "computational-finance/part-1/equally-weighted-portfolio/index.md",
+      "computational-finance/part-1/option-strategy-payoffs/index.md",
+      "computational-finance/part-1/discount-factors-and-duration/index.md",
+      "computational-finance/part-1/cash-flow-value/index.md",
+      "computational-finance/part-1/bond-npv-and-duration/index.md",
+      "computational-finance/part-1/annuity-present-value/index.md",
+      "computational-finance/part-1/loan-amortization/index.md",
+      "computational-finance/part-1/parametric-yield-curve/index.md",
+      "computational-finance/part-1/zero-coupon-yields/index.md",
+      "computational-finance/part-1/spot-and-forward-rates/index.md",
+      "computational-finance/part-1/internal-rate-of-return/index.md",
+      "computational-finance/part-1/swap-rate-bootstrapping/index.md",
+      "computational-finance/part-1/yield-curve-from-irs/index.md",
+    ] },
+    { "Part II · Returns, risk and portfolios" = [
+      "computational-finance/part-2/index.md",
+      "computational-finance/part-2/empirical-distributions/index.md",
+      "computational-finance/part-2/simulating-distributions/index.md",
+      "computational-finance/part-2/optimization-toolbox/index.md",
+      "computational-finance/part-2/linear-and-log-returns/index.md",
+      "computational-finance/part-2/stationarity-of-returns/index.md",
+      "computational-finance/part-2/markowitz-frontier/index.md",
+      "computational-finance/part-2/correlation-and-frontier/index.md",
+      "computational-finance/part-2/diversification-fama/index.md",
+      "computational-finance/part-2/mean-mad-frontier/index.md",
+      "computational-finance/part-2/mean-maxloss-frontier/index.md",
+      "computational-finance/part-2/var-and-cvar/index.md",
+      "computational-finance/part-2/mean-cvar-frontier/index.md",
+    ] },
+    { "Part III · Simulation and option pricing" = [
+      "computational-finance/part-3/index.md",
+      "computational-finance/part-3/probability-integral-transform/index.md",
+      "computational-finance/part-3/brownian-motion/index.md",
+      "computational-finance/part-3/geometric-brownian-motion/index.md",
+      "computational-finance/part-3/binomial-tree/index.md",
+      "computational-finance/part-3/monte-carlo-european/index.md",
+      "computational-finance/part-3/asian-option/index.md",
+    ] },
+    { "Exams" = [
+      "computational-finance/exams/index.md",
+      "computational-finance/exams/exam-2026-06-23/index.md",
+      "computational-finance/exams/exam-2026-07-16/index.md",
+    ] },
+  ] },
+]
+
+extra_css = ["stylesheets/extra.css"]
+extra_javascript = [
+  "javascripts/mathjax.js",
+  "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js",
+]
+
+[project.theme]
+language = "en"
+features = [
+  "content.code.annotate",
+  "content.code.copy",
+  "content.code.select",
+  "content.footnote.tooltips",
+  "content.tabs.link",
+  "content.tooltips",
+  "navigation.footer",
+  "navigation.indexes",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.top",
+  "navigation.tracking",
+  "search.highlight",
+]
+
+[project.theme.font]
+text = "Inter"
+code = "JetBrains Mono"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+
+[project.extra]
+generator = false   # hide "Made with Zensical"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/ValerioPaul"
+
+# LinkedIn — uncomment and fill in:
+# [[project.extra.social]]
+# icon = "fontawesome/brands/linkedin"
+# link = "https://www.linkedin.com/in/<profile>"
+
+[project.markdown_extensions]
+abbr = {}
+admonition = {}
+attr_list = {}
+def_list = {}
+footnotes = {}
+md_in_html = {}
+toc.permalink = true
+pymdownx.arithmatex.generic = true
+pymdownx.betterem = {}
+pymdownx.caret = {}
+pymdownx.details = {}
+pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
+pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"
+pymdownx.highlight.anchor_linenums = true
+pymdownx.highlight.line_spans = "__span"
+pymdownx.highlight.pygments_lang_class = true
+pymdownx.inlinehilite = {}
+pymdownx.keys = {}
+pymdownx.mark = {}
+pymdownx.smartsymbols = {}
+pymdownx.snippets.base_path = ["docs"]   # code files are included from docs/
+pymdownx.snippets.check_paths = true     # a missing file fails the build
+pymdownx.superfences = {}
+pymdownx.tabbed.alternate_style = true
+pymdownx.tabbed.combine_header_slug = true
+pymdownx.tasklist.custom_checkbox = true
+pymdownx.tilde = {}

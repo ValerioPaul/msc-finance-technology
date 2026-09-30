@@ -1,0 +1,141 @@
+/* ---- Colour tokens ------------------------------------------------------ */
+
+/* One accent (teal) instead of the theme's default blue, and a strong
+   colour for headings: the dark theme's default text is 82% white, which
+   makes titles look grey. */
+:root,
+[data-md-color-scheme="default"][data-md-color-primary] {
+  --md-primary-fg-color: #0f766e;
+  --md-accent-fg-color: #0d9488;
+  --md-typeset-a-color: #0f766e;
+  --pf-heading-color: #111418;
+  --pf-card-bg: rgba(0, 0, 0, 0.02);
+}
+
+/* Same specificity as the theme's own scheme + primary selectors. */
+[data-md-color-scheme="slate"][data-md-color-primary] {
+  --md-accent-fg-color: #2dd4bf;
+  --md-typeset-a-color: #5eead4;
+  --pf-heading-color: rgba(255, 255, 255, 0.95);
+  --pf-card-bg: rgba(255, 255, 255, 0.025);
+}
+
+/* ---- Typography --------------------------------------------------------- */
+
+/* Body text at 17px (the theme's root is 20px, so 0.85rem). */
+.md-typeset {
+  font-size: 0.85rem;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: var(--pf-heading-color);
+  letter-spacing: -0.015em;
+}
+
+/* ---- Header and footer -------------------------------------------------- */
+
+/* The theme's generic book icon adds nothing next to the name. */
+.md-header__button.md-logo {
+  display: none;
+}
+
+/* A thin rule instead of a grey band. */
+.md-footer-meta {
+  background-color: transparent;
+  border-top: 0.05rem solid var(--md-default-fg-color--lightest);
+}
+
+/* ---- Home --------------------------------------------------------------- */
+
+/* A short intro with a clear hierarchy, not a full-width line. */
+.hero {
+  max-width: 38rem;
+  margin: 1.5rem 0 2.75rem;
+}
+.md-typeset .hero h1 {
+  margin-bottom: 0.4rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+.md-typeset .hero-sub {
+  margin-top: 0;
+  color: var(--md-default-fg-color--light);
+  font-weight: 500;
+}
+.md-typeset .section-label {
+  margin-bottom: 0.7rem;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Keep cards at card size even when there are only one or two. */
+.md-typeset .grid.cards {
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
+}
+
+/* Course cards: the whole card is the link, no underline. */
+.md-typeset .course-cards > ul > li {
+  position: relative;
+  padding: 1.2rem 1.3rem;
+  border-radius: 0.6rem;
+  background-color: var(--pf-card-bg);
+  transition: border-color 150ms, transform 150ms;
+}
+.md-typeset .course-cards > ul > li:hover {
+  border-color: var(--md-accent-fg-color);
+  transform: translateY(-2px);
+}
+.md-typeset .course-cards a {
+  display: block;
+  text-decoration: none;
+  color: var(--pf-heading-color);
+}
+.md-typeset .course-cards a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+.md-typeset .course-cards .course-title {
+  display: block;
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.md-typeset .course-cards .course-meta {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+  transition: color 150ms, transform 150ms;
+}
+.md-typeset .course-cards > ul > li:hover .course-meta {
+  color: var(--md-accent-fg-color);
+  transform: translateX(3px);
+}
+
+/* ---- Exercise pages ----------------------------------------------------- */
+
+/* The small line under the title: course exercise number and part. */
+.md-typeset .ex-meta {
+  margin-top: -0.6rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Charts are exported on white: give them a frame so they sit well in dark mode too. */
+.md-typeset img[src$=".png"] {
+  border-radius: 0.4rem;
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+}
+
+/* Function and variable names in tables should not break mid-word. */
+.md-typeset table code {
+  white-space: nowrap;
+}
