@@ -116,10 +116,9 @@ generator = false   # hide "Made with Zensical"
 icon = "fontawesome/brands/github"
 link = "https://github.com/ValerioPaul"
 
-# LinkedIn — uncomment and fill in:
-# [[project.extra.social]]
-# icon = "fontawesome/brands/linkedin"
-# link = "https://www.linkedin.com/in/<profile>"
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://www.linkedin.com/in/valerio-paulicelli/"
 
 [project.markdown_extensions]
 abbr = {}
