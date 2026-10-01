@@ -42,5 +42,6 @@ python3 -m venv .venv
 
 ## Deploy
 
-Vercel builds the site on every push to `main`, following `vercel.json`:
-install `requirements.txt`, run `zensical build`, publish `site/`.
+GitHub Pages publishes the site on every push to `main`, through
+`.github/workflows/docs.yml`: install `requirements.txt`, run `zensical build`, publish
+`site/`. The site lives at https://valeriopaul.github.io/msc-finance-technology/.

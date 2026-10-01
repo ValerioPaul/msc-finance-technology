@@ -7,8 +7,7 @@ copyright = "Copyright &copy; 2026 Valerio Paulicelli"
 repo_url = "https://github.com/ValerioPaul/msc-finance-technology"
 repo_name = "ValerioPaul/msc-finance-technology"
 
-# Fill in once the Vercel deployment exists:
-# site_url = "https://<your-project>.vercel.app/"
+site_url = "https://valeriopaul.github.io/msc-finance-technology/"
 
 # The sidebar, in reading order. A new exercise gets one line inside its
 # course; a new course gets its own block.
