@@ -121,9 +121,20 @@
 
 /* ---- Exercise pages ----------------------------------------------------- */
 
-/* The small line under the title: course exercise number and part. */
+/* The small line under the title: course exercise number and part.
+   The theme leaves a large gap under h1; tighten it only when this line follows. */
+.md-typeset h1:has(+ .ex-meta) {
+  margin-bottom: 0.3em;
+}
+
+/* The hidden permalink after a page title wraps to its own line when the title
+   fills the width, leaving an empty line under it. The page URL already is the
+   permalink of the title, so hide it there (section headings keep theirs). */
+.md-typeset h1 .headerlink {
+  display: none;
+}
 .md-typeset .ex-meta {
-  margin-top: -0.6rem;
+  margin-top: 0;
   font-size: 0.75rem;
   font-weight: 500;
   color: var(--md-default-fg-color--light);
