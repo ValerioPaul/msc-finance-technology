@@ -150,3 +150,37 @@
 .md-typeset table code {
   white-space: nowrap;
 }
+
+/* ---- Layout: room for the code -------------------------------------------- */
+
+/* A wider page on large screens, so code lines fit: the theme stops at
+   61rem (about 1220px), which leaves a narrow column between the two sidebars. */
+.md-grid {
+  max-width: 80rem;
+}
+
+/* Prose keeps the width it had before (about 760px): long lines of text are
+   hard to read. Only code, tables, formulas and charts use the extra room. */
+.md-typeset > p,
+.md-typeset > ul,
+.md-typeset > ol,
+.md-typeset > .admonition,
+.md-typeset > details {
+  max-width: 38rem;
+}
+
+/* The lines that are still too long wrap onto the next line instead of
+   scrolling sideways (the code itself is unchanged). */
+.md-typeset pre > code {
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+
+/* Hanging indent: when a line wraps, the continuation starts 8 characters to
+   the right of the margin (deeper than the usual 4-space indent), so it reads
+   as part of the line above and not as a new line. */
+.md-typeset pre > code > span[id^="__span-"] {
+  display: block;
+  padding-left: 8ch;
+  text-indent: -8ch;
+}
