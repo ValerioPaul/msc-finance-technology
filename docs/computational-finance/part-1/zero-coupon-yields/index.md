@@ -17,11 +17,21 @@ $$
 
 ## Code
 
-=== "S_exercise_54.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/zero-coupon-yields/S_exercise_54.m"
-    ```
+    === "S_exercise_54.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/zero-coupon-yields/S_exercise_54.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_54.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/zero-coupon-yields/S_exercise_54.py"
+        ```
 
 ## Results
 

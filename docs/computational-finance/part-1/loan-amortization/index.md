@@ -23,11 +23,21 @@ the debt falls, so the installment $R_k = C + I_k$ falls too.
 
 ## Code
 
-=== "S_exercise_52.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/loan-amortization/S_exercise_52.m"
-    ```
+    === "S_exercise_52.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/loan-amortization/S_exercise_52.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_52.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/loan-amortization/S_exercise_52.py"
+        ```
 
 ## Results
 

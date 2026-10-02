@@ -25,11 +25,21 @@ $n^2 - n$.
 
 ## Code
 
-=== "S_exercise_134.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/diversification-fama/S_exercise_134.m"
-    ```
+    === "S_exercise_134.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/diversification-fama/S_exercise_134.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_134.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/diversification-fama/S_exercise_134.py"
+        ```
 
 ## Results
 

@@ -26,11 +26,21 @@ program, solved with `linprog` for 100 target returns.
 
 ## Code
 
-=== "S_exercise_135.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/mean-mad-frontier/S_exercise_135.m"
-    ```
+    === "S_exercise_135.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/mean-mad-frontier/S_exercise_135.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_135.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/mean-mad-frontier/S_exercise_135.py"
+        ```
 
 ## Results
 

@@ -22,11 +22,21 @@ $\sigma_p$.
 
 ## Code
 
-=== "S_exercise_132.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/correlation-and-frontier/S_exercise_132.m"
-    ```
+    === "S_exercise_132.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/correlation-and-frontier/S_exercise_132.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_132.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/correlation-and-frontier/S_exercise_132.py"
+        ```
 
 ## Results
 

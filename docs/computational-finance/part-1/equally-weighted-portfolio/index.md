@@ -17,11 +17,21 @@ $$
 
 ## Code
 
-=== "S_exercise_32.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/equally-weighted-portfolio/S_exercise_32.m"
-    ```
+    === "S_exercise_32.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/equally-weighted-portfolio/S_exercise_32.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_32.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/equally-weighted-portfolio/S_exercise_32.py"
+        ```
 
 ## Results
 

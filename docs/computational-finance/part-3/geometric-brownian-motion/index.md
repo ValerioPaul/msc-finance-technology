@@ -22,13 +22,30 @@ $\mu = 0.2$, $\sigma = 0.2$, $\Delta t = 0.05$.
 
 ## Code
 
-=== "S_exercise_162.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-3/geometric-brownian-motion/S_exercise_162.m"
-    ```
+    === "S_exercise_162.m"
 
-The helper `F_Empirical_pdf` is shown in [Part II](../../part-2/simulating-distributions/index.md).
+        ```matlab
+        --8<-- "computational-finance/part-3/geometric-brownian-motion/S_exercise_162.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_162.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/geometric-brownian-motion/S_exercise_162.py"
+        ```
+
+    === "F_Empirical_pdf.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/geometric-brownian-motion/F_Empirical_pdf.py"
+        ```
+
+
+In MATLAB, the helper `F_Empirical_pdf` is the one shown in [Part II](../../part-2/simulating-distributions/index.md).
 
 ## Results
 

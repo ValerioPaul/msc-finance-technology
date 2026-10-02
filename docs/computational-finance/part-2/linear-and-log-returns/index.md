@@ -16,11 +16,21 @@ $$
 
 ## Code
 
-=== "S_exercise_117.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/linear-and-log-returns/S_exercise_117.m"
-    ```
+    === "S_exercise_117.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/linear-and-log-returns/S_exercise_117.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_117.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/linear-and-log-returns/S_exercise_117.py"
+        ```
 
 ## Results
 

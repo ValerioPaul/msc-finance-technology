@@ -19,17 +19,33 @@ $$
 
 ## Code
 
-=== "S_exercise_48.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/bond-npv-and-duration/S_exercise_48.m"
-    ```
+    === "S_exercise_48.m"
 
-=== "F_es47.m"
+        ```matlab
+        --8<-- "computational-finance/part-1/bond-npv-and-duration/S_exercise_48.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-1/bond-npv-and-duration/F_es47.m"
-    ```
+    === "F_es47.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/bond-npv-and-duration/F_es47.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_48.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/bond-npv-and-duration/S_exercise_48.py"
+        ```
+
+    === "F_es47.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/bond-npv-and-duration/F_es47.py"
+        ```
 
 ## Results
 

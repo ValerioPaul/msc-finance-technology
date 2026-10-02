@@ -24,11 +24,21 @@ makes its objective value exactly the portfolio variance.
 
 ## Code
 
-=== "S_exercise_131.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/markowitz-frontier/S_exercise_131.m"
-    ```
+    === "S_exercise_131.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/markowitz-frontier/S_exercise_131.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_131.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/markowitz-frontier/S_exercise_131.py"
+        ```
 
 ## Results
 

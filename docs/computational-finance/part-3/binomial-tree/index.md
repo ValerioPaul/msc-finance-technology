@@ -31,11 +31,21 @@ independent check of the put.
 
 ## Code
 
-=== "S_exercise_165.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-3/binomial-tree/S_exercise_165.m"
-    ```
+    === "S_exercise_165.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-3/binomial-tree/S_exercise_165.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_165.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/binomial-tree/S_exercise_165.py"
+        ```
 
 ## Results
 

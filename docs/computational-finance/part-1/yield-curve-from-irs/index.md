@@ -19,29 +19,57 @@ exercise the wrong way on purpose, interpolating the swap rates directly, and co
 
 ## Code
 
-=== "S_exercise_60.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/yield-curve-from-irs/S_exercise_60.m"
-    ```
+    === "S_exercise_60.m"
 
-=== "F_es59.m"
+        ```matlab
+        --8<-- "computational-finance/part-1/yield-curve-from-irs/S_exercise_60.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-1/yield-curve-from-irs/F_es59.m"
-    ```
+    === "F_es59.m"
 
-=== "F_es60.m"
+        ```matlab
+        --8<-- "computational-finance/part-1/yield-curve-from-irs/F_es59.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-1/yield-curve-from-irs/F_es60.m"
-    ```
+    === "F_es60.m"
 
-=== "F_es55.m"
+        ```matlab
+        --8<-- "computational-finance/part-1/yield-curve-from-irs/F_es60.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-1/yield-curve-from-irs/F_es55.m"
-    ```
+    === "F_es55.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/yield-curve-from-irs/F_es55.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_60.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/yield-curve-from-irs/S_exercise_60.py"
+        ```
+
+    === "F_es55.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/yield-curve-from-irs/F_es55.py"
+        ```
+
+    === "F_es59.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/yield-curve-from-irs/F_es59.py"
+        ```
+
+    === "F_es60.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/yield-curve-from-irs/F_es60.py"
+        ```
 
 ## Results
 

@@ -21,11 +21,22 @@ final price alone.
 
 ## Code
 
-=== "S_exercise_179.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-3/monte-carlo-european/S_exercise_179.m"
-    ```
+    === "S_exercise_179.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-3/monte-carlo-european/S_exercise_179.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_179.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/monte-carlo-european/S_exercise_179.py"
+        ```
+
 
 !!! note "Two variable names restored"
     In the saved version of this script, two lines had lost their variable name and read

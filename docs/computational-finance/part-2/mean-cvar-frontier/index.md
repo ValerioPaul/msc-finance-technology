@@ -24,11 +24,21 @@ is used for both levels of $\varepsilon$, so the two frontiers can be compared p
 
 ## Code
 
-=== "S_exercise_139.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/mean-cvar-frontier/S_exercise_139.m"
-    ```
+    === "S_exercise_139.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/mean-cvar-frontier/S_exercise_139.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_139.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/mean-cvar-frontier/S_exercise_139.py"
+        ```
 
 ## Results
 

@@ -23,23 +23,45 @@ in those scenarios.
 
 ## Code
 
-=== "S_exercise_137.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/var-and-cvar/S_exercise_137.m"
-    ```
+    === "S_exercise_137.m"
 
-=== "S_exercise_138.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/var-and-cvar/S_exercise_137.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/var-and-cvar/S_exercise_138.m"
-    ```
+    === "S_exercise_138.m"
 
-=== "F_Empirical_pdf.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/var-and-cvar/S_exercise_138.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/var-and-cvar/F_Empirical_pdf.m"
-    ```
+    === "F_Empirical_pdf.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/var-and-cvar/F_Empirical_pdf.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_137.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/var-and-cvar/S_exercise_137.py"
+        ```
+
+    === "S_exercise_138.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/var-and-cvar/S_exercise_138.py"
+        ```
+
+    === "F_Empirical_pdf.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/var-and-cvar/F_Empirical_pdf.py"
+        ```
 
 ## Results
 

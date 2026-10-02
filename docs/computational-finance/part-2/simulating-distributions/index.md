@@ -27,52 +27,112 @@ $n \times$ bin width.
 
 ## Code
 
-=== "S_exercise_103.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_103.m"
-    ```
+    === "S_exercise_103.m"
 
-=== "S_exercise_107.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_103.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_107.m"
-    ```
+    === "S_exercise_107.m"
 
-=== "S_exercise_108.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_107.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_108.m"
-    ```
+    === "S_exercise_108.m"
 
-=== "S_exercise_109.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_108.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_109.m"
-    ```
+    === "S_exercise_109.m"
 
-=== "S_exercise_110.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_109.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_110.m"
-    ```
+    === "S_exercise_110.m"
 
-=== "Functions"
+        ```matlab
+        --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_110.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/simulating-distributions/F_Empirical_pdf.m"
-    ```
+    === "Functions"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/simulating-distributions/F_Empirical_cdf.m"
-    ```
+        ```matlab
+        --8<-- "computational-finance/part-2/simulating-distributions/F_Empirical_pdf.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/simulating-distributions/F_SynteticIndices.m"
-    ```
+        ```matlab
+        --8<-- "computational-finance/part-2/simulating-distributions/F_Empirical_cdf.m"
+        ```
 
-    Exercise 110 uses `F_es99`, `F_es95` and `F_es100` from
-    [the previous page](../empirical-distributions/index.md).
+        ```matlab
+        --8<-- "computational-finance/part-2/simulating-distributions/F_SynteticIndices.m"
+        ```
+
+        Exercise 110 uses `F_es99`, `F_es95` and `F_es100` from
+        [the previous page](../empirical-distributions/index.md).
+
+=== "Python"
+
+    === "S_exercise_103.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_103.py"
+        ```
+
+    === "S_exercise_107.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_107.py"
+        ```
+
+    === "S_exercise_108.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_108.py"
+        ```
+
+    === "S_exercise_109.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_109.py"
+        ```
+
+    === "S_exercise_110.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/S_exercise_110.py"
+        ```
+
+    === "Functions"
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/F_Empirical_cdf.py"
+        ```
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/F_Empirical_pdf.py"
+        ```
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/F_es100.py"
+        ```
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/F_es95.py"
+        ```
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/F_es99.py"
+        ```
+
+        ```python
+        --8<-- "computational-finance/part-2/simulating-distributions/F_SynteticIndices.py"
+        ```
 
 ## Results
 

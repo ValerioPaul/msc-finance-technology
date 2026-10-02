@@ -28,23 +28,45 @@ $$
 
 ## Code
 
-=== "S_exercise_58.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/swap-rate-bootstrapping/S_exercise_58.m"
-    ```
+    === "S_exercise_58.m"
 
-=== "S_exercise_59.m"
+        ```matlab
+        --8<-- "computational-finance/part-1/swap-rate-bootstrapping/S_exercise_58.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-1/swap-rate-bootstrapping/S_exercise_59.m"
-    ```
+    === "S_exercise_59.m"
 
-=== "F_bootstrap.m"
+        ```matlab
+        --8<-- "computational-finance/part-1/swap-rate-bootstrapping/S_exercise_59.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-1/swap-rate-bootstrapping/F_bootstrap.m"
-    ```
+    === "F_bootstrap.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/swap-rate-bootstrapping/F_bootstrap.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_58.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/swap-rate-bootstrapping/S_exercise_58.py"
+        ```
+
+    === "S_exercise_59.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/swap-rate-bootstrapping/S_exercise_59.py"
+        ```
+
+    === "F_bootstrap.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/swap-rate-bootstrapping/F_bootstrap.py"
+        ```
 
 ## Results
 

@@ -18,23 +18,45 @@ first four moments of each period, first for prices, then for linear returns.
 
 ## Code
 
-=== "S_exercise_119.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/stationarity-of-returns/S_exercise_119.m"
-    ```
+    === "S_exercise_119.m"
 
-=== "F_es99.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/stationarity-of-returns/S_exercise_119.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/stationarity-of-returns/F_es99.m"
-    ```
+    === "F_es99.m"
 
-=== "F_es100.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/stationarity-of-returns/F_es99.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/stationarity-of-returns/F_es100.m"
-    ```
+    === "F_es100.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/stationarity-of-returns/F_es100.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_119.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/stationarity-of-returns/S_exercise_119.py"
+        ```
+
+    === "F_es100.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/stationarity-of-returns/F_es100.py"
+        ```
+
+    === "F_es99.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/stationarity-of-returns/F_es99.py"
+        ```
 
 ## Results
 

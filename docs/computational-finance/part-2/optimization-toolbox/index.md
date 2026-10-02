@@ -22,23 +22,45 @@ cross-term coefficient off the diagonal, placed symmetrically.
 
 ## Code
 
-=== "S_exercise_112.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/optimization-toolbox/S_exercise_112.m"
-    ```
+    === "S_exercise_112.m"
 
-=== "S_exercise_113.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/optimization-toolbox/S_exercise_112.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/optimization-toolbox/S_exercise_113.m"
-    ```
+    === "S_exercise_113.m"
 
-=== "S_exercise_115.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/optimization-toolbox/S_exercise_113.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/optimization-toolbox/S_exercise_115.m"
-    ```
+    === "S_exercise_115.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/optimization-toolbox/S_exercise_115.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_112.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/optimization-toolbox/S_exercise_112.py"
+        ```
+
+    === "S_exercise_113.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/optimization-toolbox/S_exercise_113.py"
+        ```
+
+    === "S_exercise_115.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/optimization-toolbox/S_exercise_115.py"
+        ```
 
 ## Results
 

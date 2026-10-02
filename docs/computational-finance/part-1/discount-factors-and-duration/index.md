@@ -24,17 +24,33 @@ half-yearly coupons maturing at 2, 3 and 5 years.
 
 ## Code
 
-=== "S_exercise_44.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/discount-factors-and-duration/S_exercise_44.m"
-    ```
+    === "S_exercise_44.m"
 
-=== "S_exercise_45.m"
+        ```matlab
+        --8<-- "computational-finance/part-1/discount-factors-and-duration/S_exercise_44.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-1/discount-factors-and-duration/S_exercise_45.m"
-    ```
+    === "S_exercise_45.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/discount-factors-and-duration/S_exercise_45.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_44.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/discount-factors-and-duration/S_exercise_44.py"
+        ```
+
+    === "S_exercise_45.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/discount-factors-and-duration/S_exercise_45.py"
+        ```
 
 ## Results
 

@@ -24,11 +24,21 @@ the objective is $-d$.
 
 ## Code
 
-=== "S_exercise_136.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/mean-maxloss-frontier/S_exercise_136.m"
-    ```
+    === "S_exercise_136.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/mean-maxloss-frontier/S_exercise_136.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_136.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/mean-maxloss-frontier/S_exercise_136.py"
+        ```
 
 ## Results
 

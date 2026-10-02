@@ -24,11 +24,21 @@ $r = 1.75\%$, $\sigma = 20\%$, $T = 0.5$, $m = 100$.
 
 ## Code
 
-=== "S_exercise_180.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-3/asian-option/S_exercise_180.m"
-    ```
+    === "S_exercise_180.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-3/asian-option/S_exercise_180.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_180.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/asian-option/S_exercise_180.py"
+        ```
 
 ## Results
 

@@ -27,11 +27,21 @@ Each strategy is a sum of these, long (+) or short (−):
 
 ## Code
 
-=== "S_exercise_39.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/option-strategy-payoffs/S_exercise_39.m"
-    ```
+    === "S_exercise_39.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/option-strategy-payoffs/S_exercise_39.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_39.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/option-strategy-payoffs/S_exercise_39.py"
+        ```
 
 ## Results
 

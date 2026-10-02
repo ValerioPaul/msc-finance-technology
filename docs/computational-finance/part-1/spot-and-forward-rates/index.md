@@ -20,17 +20,33 @@ The forward rate is the rate agreed today for the period between $t_{k-1}$ and $
 
 ## Code
 
-=== "S_exercise_56.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/spot-and-forward-rates/S_exercise_56.m"
-    ```
+    === "S_exercise_56.m"
 
-=== "F_es55.m"
+        ```matlab
+        --8<-- "computational-finance/part-1/spot-and-forward-rates/S_exercise_56.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-1/spot-and-forward-rates/F_es55.m"
-    ```
+    === "F_es55.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/spot-and-forward-rates/F_es55.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_56.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/spot-and-forward-rates/S_exercise_56.py"
+        ```
+
+    === "F_es55.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/spot-and-forward-rates/F_es55.py"
+        ```
 
 ## Results
 

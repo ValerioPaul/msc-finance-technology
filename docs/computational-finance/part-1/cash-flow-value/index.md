@@ -22,11 +22,21 @@ with a message if the curve does not match the schedule.
 
 ## Code
 
-=== "S_exercise_46.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/cash-flow-value/S_exercise_46.m"
-    ```
+    === "S_exercise_46.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/cash-flow-value/S_exercise_46.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_46.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/cash-flow-value/S_exercise_46.py"
+        ```
 
 ## Results
 

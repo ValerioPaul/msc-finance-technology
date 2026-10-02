@@ -30,29 +30,57 @@ $$
 
 ## Code
 
-=== "S_exercise_95.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-2/empirical-distributions/S_exercise_95.m"
-    ```
+    === "S_exercise_95.m"
 
-=== "F_es95.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/empirical-distributions/S_exercise_95.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/empirical-distributions/F_es95.m"
-    ```
+    === "F_es95.m"
 
-=== "S_exercise_99.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/empirical-distributions/F_es95.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/empirical-distributions/S_exercise_99.m"
-    ```
+    === "S_exercise_99.m"
 
-=== "S_exercise_100.m"
+        ```matlab
+        --8<-- "computational-finance/part-2/empirical-distributions/S_exercise_99.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-2/empirical-distributions/S_exercise_100.m"
-    ```
+    === "S_exercise_100.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-2/empirical-distributions/S_exercise_100.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_95.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/empirical-distributions/S_exercise_95.py"
+        ```
+
+    === "S_exercise_99.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/empirical-distributions/S_exercise_99.py"
+        ```
+
+    === "S_exercise_100.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/empirical-distributions/S_exercise_100.py"
+        ```
+
+    === "F_es95.py"
+
+        ```python
+        --8<-- "computational-finance/part-2/empirical-distributions/F_es95.py"
+        ```
 
 ## Results
 

@@ -11,6 +11,11 @@ formulas, the **code**, the **results** it produces, and the **takeaways**. The 
 final version of my own solutions; comments are translated into English, and the results
 and charts on each page come from running exactly that code.
 
+Next to the MATLAB code, every exercise has a **Python** translation that follows it line by
+line, with the same structure and variable names, as study material for learning Python. The
+Python versions give the same numbers as MATLAB; in the simulations they differ only by the
+random draws.
+
 ## Parts
 
 | Part | Topics | |

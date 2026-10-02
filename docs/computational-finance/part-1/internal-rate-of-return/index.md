@@ -22,11 +22,21 @@ the value of the future flows, $f(v) = \sum_{k \ge 1} x_k v^{t_k}$, must equal t
 
 ## Code
 
-=== "S_exercise_57.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/internal-rate-of-return/S_exercise_57.m"
-    ```
+    === "S_exercise_57.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/internal-rate-of-return/S_exercise_57.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_57.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/internal-rate-of-return/S_exercise_57.py"
+        ```
 
 ## Results
 

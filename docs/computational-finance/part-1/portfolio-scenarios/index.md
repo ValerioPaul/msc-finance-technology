@@ -21,11 +21,21 @@ the 5th percentile of the 100 simulated portfolio returns.
 
 ## Code
 
-=== "S_exercise_31.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/portfolio-scenarios/S_exercise_31.m"
-    ```
+    === "S_exercise_31.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/portfolio-scenarios/S_exercise_31.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_31.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/portfolio-scenarios/S_exercise_31.py"
+        ```
 
 ## Results
 

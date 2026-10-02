@@ -18,11 +18,21 @@ As $n \to \infty$ the annuity becomes a perpetuity, worth $R / i$.
 
 ## Code
 
-=== "S_exercise_49.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-1/annuity-present-value/S_exercise_49.m"
-    ```
+    === "S_exercise_49.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-1/annuity-present-value/S_exercise_49.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_49.py"
+
+        ```python
+        --8<-- "computational-finance/part-1/annuity-present-value/S_exercise_49.py"
+        ```
 
 ## Results
 

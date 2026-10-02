@@ -21,11 +21,27 @@ $\sigma = 0.4$, $\Delta t = 0.1$, $X_0 = 0$.
 
 ## Code
 
-=== "S_exercise_154.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-3/brownian-motion/S_exercise_154.m"
-    ```
+    === "S_exercise_154.m"
+
+        ```matlab
+        --8<-- "computational-finance/part-3/brownian-motion/S_exercise_154.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_154.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/brownian-motion/S_exercise_154.py"
+        ```
+
+    === "F_Empirical_pdf.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/brownian-motion/F_Empirical_pdf.py"
+        ```
 
 ## Results
 

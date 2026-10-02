@@ -22,20 +22,55 @@ draws from any distribution.
 
 ## Code
 
-=== "S_exercise_146.m"
+=== "MATLAB"
 
-    ```matlab
-    --8<-- "computational-finance/part-3/probability-integral-transform/S_exercise_146.m"
-    ```
+    === "S_exercise_146.m"
 
-=== "F_MCmethod.m"
+        ```matlab
+        --8<-- "computational-finance/part-3/probability-integral-transform/S_exercise_146.m"
+        ```
 
-    ```matlab
-    --8<-- "computational-finance/part-3/probability-integral-transform/F_MCmethod.m"
-    ```
+    === "F_MCmethod.m"
 
-The helper functions `F_Empirical_pdf`, `F_Empirical_cdf` and `F_SynteticIndices` are the ones
-shown in [Part II](../../part-2/simulating-distributions/index.md).
+        ```matlab
+        --8<-- "computational-finance/part-3/probability-integral-transform/F_MCmethod.m"
+        ```
+
+=== "Python"
+
+    === "S_exercise_146.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/probability-integral-transform/S_exercise_146.py"
+        ```
+
+    === "F_Empirical_cdf.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/probability-integral-transform/F_Empirical_cdf.py"
+        ```
+
+    === "F_Empirical_pdf.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/probability-integral-transform/F_Empirical_pdf.py"
+        ```
+
+    === "F_MCmethod.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/probability-integral-transform/F_MCmethod.py"
+        ```
+
+    === "F_SynteticIndices.py"
+
+        ```python
+        --8<-- "computational-finance/part-3/probability-integral-transform/F_SynteticIndices.py"
+        ```
+
+
+In MATLAB, the helper functions `F_Empirical_pdf`, `F_Empirical_cdf` and `F_SynteticIndices` are
+the ones shown in [Part II](../../part-2/simulating-distributions/index.md).
 
 ## Results
 
