@@ -1,0 +1,3 @@
+| codice | cliente | descrizione | debito |
+|---|---|---|---|
+| 101 | RSSMRA | ... | 120 |

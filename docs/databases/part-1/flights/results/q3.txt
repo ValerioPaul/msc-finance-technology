@@ -1,0 +1,4 @@
+| aeroporto_partenza | citta | num_voli |
+|---|---|---|
+| CDG | Parigi | 1 |
+| FCO | Roma | 2 |

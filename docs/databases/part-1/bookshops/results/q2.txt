@@ -1,0 +1,5 @@
+| codice | titolo | prezzo_di_copertina | nome |
+|---|---|---|---|
+| 1 | Il nome della rosa | 14.5 | Romanzo |
+| 2 | Sapiens | 22 | Saggio |
+| 4 | Il Gattopardo | 18 | Romanzo |

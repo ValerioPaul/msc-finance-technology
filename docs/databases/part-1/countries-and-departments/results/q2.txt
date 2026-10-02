@@ -1,0 +1,4 @@
+| nome_paese | numero_di_dipartimenti |
+|---|---|
+| Francia | 1 |
+| Italia | 2 |

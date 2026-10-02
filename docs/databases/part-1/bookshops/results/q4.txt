@@ -1,0 +1,4 @@
+| id_libreria | indirizzo | città |
+|---|---|---|
+| 1 | Via Roma 1 | Milano |
+| 3 | Via Po 10 | Torino |

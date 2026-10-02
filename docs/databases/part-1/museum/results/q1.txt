@@ -1,0 +1,6 @@
+| codice | descrizione | cognome | nome |
+|---|---|---|---|
+| 1 | Canestra di frutta | Caravaggio | Michelangelo |
+| 2 | Bacchino malato | Caravaggio | Michelangelo |
+| 3 | Madonna del prato | Sanzio | Raffaello |
+| 4 | La velata | Sanzio | Raffaello |

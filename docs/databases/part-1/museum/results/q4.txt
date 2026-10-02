@@ -1,0 +1,3 @@
+| nome_artista | cognome_artista | nome_stanza |
+|---|---|---|
+| Michelangelo | Caravaggio | Sala A |

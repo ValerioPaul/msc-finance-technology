@@ -1,0 +1,6 @@
+| CF | numeroOrdini |
+|---|---|
+| BNCLGU | 1 |
+| MROMRA | 0 |
+| RSSMRA | 2 |
+| VRDLCU | 0 |

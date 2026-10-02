@@ -1,0 +1,7 @@
+| nome_citta | nome_paese |
+|---|---|
+| Lione | Francia |
+| Milano | Italia |
+| Parigi | Francia |
+| Roma | Italia |
+| Valencia | Spagna |

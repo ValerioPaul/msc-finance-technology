@@ -1,0 +1,4 @@
+| id_cliente | nome | email |
+|---|---|---|
+| 1 | Anna | anna@example.com |
+| 2 | Bruno | bruno@example.com |

@@ -22,4 +22,6 @@ The courses of my master's degree, with the exercises and projects I worked thro
 
 -   [<span class="course-title">Computational Finance</span><span class="course-meta">Exercises and notes →</span>](computational-finance/index.md)
 
+-   [<span class="course-title">Databases</span><span class="course-meta">Exercises and notes →</span>](databases/index.md)
+
 </div>

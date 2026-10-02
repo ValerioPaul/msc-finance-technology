@@ -1,0 +1,5 @@
+| nome | piano | numero_totoale_quadri |
+|---|---|---|
+| Sala A | 1 | 3 |
+| Sala B | 1 | 1 |
+| Sala D | 1 | 0 |

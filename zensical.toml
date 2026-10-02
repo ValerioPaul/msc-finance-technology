@@ -62,6 +62,36 @@ nav = [
       "computational-finance/exams/exam-2026-07-16/index.md",
     ] },
   ] },
+  { "Databases" = [
+    "databases/index.md",
+    { "Part I · SQL and relational algebra" = [
+      "databases/part-1/index.md",
+      "databases/part-1/constraints-and-cardinality/index.md",
+      "databases/part-1/investment-platform/index.md",
+      "databases/part-1/composers-and-concerts/index.md",
+      "databases/part-1/orders-and-instalments/index.md",
+      "databases/part-1/museum/index.md",
+      "databases/part-1/countries-and-departments/index.md",
+      "databases/part-1/union-of-relations/index.md",
+      "databases/part-1/bookshops/index.md",
+      "databases/part-1/flights/index.md",
+    ] },
+    { "Part II · Conceptual and logical design" = [
+      "databases/part-2/index.md",
+      "databases/part-2/reading-er-schemas/index.md",
+      "databases/part-2/conceptual-design-basics/index.md",
+      "databases/part-2/conceptual-design-exams/index.md",
+      "databases/part-2/reverse-engineering/index.md",
+      "databases/part-2/redundancy-analysis/index.md",
+      "databases/part-2/logical-design/index.md",
+    ] },
+    { "Part III · Normalization" = [
+      "databases/part-3/index.md",
+      "databases/part-3/students/index.md",
+      "databases/part-3/courses-and-lessons/index.md",
+      "databases/part-3/practice-exam/index.md",
+    ] },
+  ] },
 ]
 
 extra_css = ["stylesheets/extra.css"]

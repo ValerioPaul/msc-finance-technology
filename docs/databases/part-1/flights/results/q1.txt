@@ -1,0 +1,6 @@
+| numero_volo | citta_partenza | citta_arrivo |
+|---|---|---|
+| AF200 | Parigi | Roma |
+| AZ100 | Roma | Milano |
+| AZ101 | Milano | Roma |
+| AZ600 | Roma | New York |

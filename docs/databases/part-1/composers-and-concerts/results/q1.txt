@@ -1,0 +1,4 @@
+| codiceCompositore | codicePezzo | titolo | durata |
+|---|---|---|---|
+| 1 | 10 | Overture A | 8 |
+| 2 | 12 | Sonata C | 12 |

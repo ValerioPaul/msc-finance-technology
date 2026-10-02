@@ -1,0 +1,4 @@
+| codice | cognome | nome | numeroPezzi |
+|---|---|---|---|
+| 1 | Rossi | Gioachino | 2 |
+| 3 | Bianchi | Anna | 2 |

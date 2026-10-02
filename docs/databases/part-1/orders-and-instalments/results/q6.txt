@@ -1,0 +1,4 @@
+| CF | cognome | nome |
+|---|---|---|
+| BNCLGU | Bianco | Luigi |
+| RSSMRA | Rossi | Mario |

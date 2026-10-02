@@ -1,0 +1,8 @@
+| id | indirizzo | città |
+|---|---|---|
+| 1 | Via Roma 1 | Milano |
+| 1 | Via Roma 1 | Milano |
+| 2 | Corso Italia 5 | Milano |
+| 2 | Corso Italia 5 | Milano |
+| 3 | Via Po 10 | Torino |
+| 3 | Via Po 10 | Torino |

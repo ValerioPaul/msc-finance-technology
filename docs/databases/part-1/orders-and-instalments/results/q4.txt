@@ -1,0 +1,4 @@
+| ordine | importoTotale | importoTotalePagato | debito |
+|---|---|---|---|
+| 101 | 470 | 350 | 120 |
+| 102 | 250 | 250 | 0 |

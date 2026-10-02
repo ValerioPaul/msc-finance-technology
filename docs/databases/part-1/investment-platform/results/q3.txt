@@ -1,0 +1,6 @@
+| id_cliente | nome | email | numero_totale_ordini |
+|---|---|---|---|
+| 1 | Anna | anna@example.com | 3 |
+| 2 | Bruno | bruno@example.com | 3 |
+| 3 | Carla | carla@example.com | 0 |
+| 4 | Dario | dario@example.com | 0 |

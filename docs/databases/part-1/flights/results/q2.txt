@@ -1,0 +1,4 @@
+| nome | cognome | punti |
+|---|---|---|
+| Aldo | Blu | 5400 |
+| Marta | Gialli | 5400 |

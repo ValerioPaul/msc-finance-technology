@@ -1,0 +1,9 @@
+| genitore | figlio |
+|---|---|
+| Anna | Luca |
+| Paolo | Luca |
+| Elena | Marco |
+| Franco | Marco |
+| Anna | Sara |
+| Paolo | Sara |
+| Giulia | Teo |

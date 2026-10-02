@@ -1,0 +1,5 @@
+| nome_stanza | piano_stanza | nome_artista | cognome_artista | numero_opere_esposte |
+|---|---|---|---|---|
+| Sala A | 1 | Michelangelo | Caravaggio | 2 |
+| Sala A | 1 | Raffaello | Sanzio | 1 |
+| Sala B | 1 | Raffaello | Sanzio | 1 |

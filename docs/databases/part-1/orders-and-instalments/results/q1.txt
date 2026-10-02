@@ -1,0 +1,4 @@
+| CF | cognome | nome |
+|---|---|---|
+| MROMRA | Mori | Mario |
+| VRDLCU | Verdi | Luca |

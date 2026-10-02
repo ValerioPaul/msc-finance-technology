@@ -184,3 +184,11 @@
   padding-left: 8ch;
   text-indent: -8ch;
 }
+
+/* Wide relations (9+ columns, as in normalization exercises): no minimum
+   header width and tighter cells, so the whole table fits the column. */
+.md-typeset table:not([class]):has(th:nth-child(9)) :is(th, td) {
+  min-width: 0;
+  padding-left: 0.6em;
+  padding-right: 0.6em;
+}
